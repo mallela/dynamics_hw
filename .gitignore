@@ -1,0 +1,19 @@
+# vi stuff
+.*.sw?
+
+# Python stuff
+*.pyc
+
+# Data files
+*.dat
+*.csv
+
+# Emacs temp files
+.#*
+
+# OSX Files
+.DS_Store
+
+*.md~
+
+CATKIN_IGNORE
